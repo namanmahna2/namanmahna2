@@ -1,29 +1,27 @@
 # 👋 Hi, I’m Naman Mahna  
 
-🎓 MSc Cyber Security Student @ Coventry University  
-💻 Software Engineer (3+ years) | Backend • Blockchain • AI-Driven Security  
+🎓 MSc Cyber Security (Distinction) @ Coventry University  
+💻 Software Engineer (3+ years) | Full-Stack • Node.js & Python • Distributed & Secure Backend Systems  
 
-I’m a cybersecurity-focused software engineer with strong experience in backend systems, blockchain security, and AI-powered anomaly detection. I enjoy building secure, scalable systems and researching modern threats across Web2, Web3, and decentralized infrastructures.
+I’m a backend-focused software engineer with strong experience building **secure, scalable production systems** using **Node.js, PostgreSQL, MongoDB, Redis, Docker, and event-driven architectures**. I specialize in developing **RESTful APIs, microservices, and secure authentication systems** (JWT, RBAC, MFA) and enjoy solving real-world problems with high-performance backend solutions.  
 
 ---
 
 ## 👀 Interests  
-- Ethical Hacking & Penetration Testing  
-- Vulnerability Assessment & Threat Modeling  
-- Malware Analysis & Cybercrime Investigation  
-- Secure Backend Systems & API Security  
-- Web3, Smart Contract & Blockchain Security  
-- AI-driven Security Monitoring & Anomaly Detection  
+- Backend & API Development (Node.js, Express, FastAPI)  
+- Distributed & Event-Driven Systems (Redis, Bull Queue, MQTT, Kafka)  
+- Secure Software Design & Cybersecurity  
+- Database Architecture (SQL & NoSQL)  
+- Cloud & Containerization (AWS, Docker, Kubernetes)  
+- Continuous Integration & DevOps Practices  
 
 ---
 
 ## 🌱 Currently Learning  
-- Offensive & Defensive Security Techniques  
-- Advanced Cryptography, PKI & Secure Identity  
-- Cloud & Container Security  
-- AI + Machine Learning for Cybersecurity  
-- Security Tools & Platforms:  
-  **Kali Linux, Nmap, Metasploit, Burp Suite, Nessus, Wireshark, Autopsy, FTK Imager**
+- Advanced Cloud & Container Security  
+- GraphQL & Modern API Architectures  
+- Microservices Observability & Performance Tuning  
+- CI/CD Pipelines & DevOps Automation  
 
 ---
 
@@ -32,91 +30,68 @@ I’m a cybersecurity-focused software engineer with strong experience in backen
 ### **Software Engineer — Softsensor AI**  
 📍 Jaipur, India | 🗓 07/2022 – 01/2025  
 
-- Built and scaled backend services using **Node.js, PostgreSQL, MongoDB, Redis**, and Docker.  
-- Designed secure REST APIs with **JWT authentication, RBAC**, and Redis-based caching.  
-- Improved system performance using **asynchronous processing and queue-based architectures**.  
-- Developed automated backend test suites using **Mocha**.  
-- Built cross-platform mobile applications using **React Native**.  
-- Acted as an unofficial project lead, resolving production issues and integrating new technologies.  
-
----
+- Built and scaled backend services using **Node.js, Express, PostgreSQL, MongoDB, Redis**, and Docker.  
+- Designed secure and performant **REST APIs** with **JWT authentication, RBAC**, and caching.  
+- Implemented **asynchronous processing and event-driven systems** using Redis queues and MQTT.  
+- Developed automated test suites for backend services using **Mocha & Jest**.  
+- Led production deployments and resolved critical incidents as primary on-call engineer.  
+- Contributed to cross-platform mobile apps using **React Native** and frontend React.js features.  
 
 ### **Web Designer — Creative Web Pixels**  
 📍 Jaipur, India | 🗓 03/2021 – 01/2022  
 
-- Designed and prototyped modern web interfaces using **Figma and Adobe XD**.  
-- Collaborated closely with developers to translate UI/UX designs into production-ready applications.  
-- Assisted in frontend implementation while ensuring usability and design consistency.  
+- Designed and prototyped web interfaces using **Figma & Adobe XD**.  
+- Assisted developers in implementing frontend features with a focus on usability and design consistency.  
 
 ---
 
 ## 🔧 Technical Skills  
 
-### **Programming & Backend**
-- Python, JavaScript (ES6+), TypeScript, C++, HTML, CSS  
-- Node.js, Express.js, FastAPI  
+### **Backend & Programming**  
+- Node.js, Express.js, FastAPI, TypeScript, JavaScript (ES6+), Python, Java  
+- RESTful API Design, Microservices Architecture, Event-Driven Systems  
 
-### **Databases & Caching**
-- PostgreSQL, MongoDB, Redis  
+### **Databases & Caching**  
+- PostgreSQL, MongoDB, Redis, DynamoDB  
 
-### **Cybersecurity**
-- Ethical Hacking & Penetration Testing  
-- Secure Authentication & Authorization (JWT, MFA, RBAC)  
-- Vulnerability Assessment & Threat Modeling  
-- Network Security & Packet Analysis  
-- Secure API & Backend Development  
+### **Authentication & Security**  
+- JWT, MFA, RBAC, OAuth  
+- Secure API Development & OWASP Best Practices  
 
-### **Blockchain & Web3**
-- Ethereum, Solidity, Smart Contracts (ERC-721)  
-- IPFS (Decentralized Storage)  
-- Hybrid On-chain / Off-chain Architectures  
+### **DevOps & Cloud**  
+- Docker, Kubernetes, CI/CD (GitHub Actions)  
+- AWS (EC2, S3, IAM, RDS, Auto Scaling)  
+- Linux & Nginx  
 
-### **DevOps & Tooling**
-- Docker, Git, GitHub, CI/CD  
-- Linux, Nginx  
+### **Testing & Observability**  
+- Mocha, Jest, Postman, Logging & Monitoring (Grafana, CloudWatch)  
 
-### **Security & Forensics Tools**
-- Kali Linux, Nmap, Wireshark, Burp Suite  
-- Metasploit, Nessus  
-- Autopsy, FTK Imager  
+### **Additional Skills**  
+- Blockchain & Web3: Ethereum, Solidity, Smart Contracts (ERC-721), IPFS  
+- AI & ML: Python-based anomaly detection, LangChain, Hugging Face  
+- Cybersecurity Tools: Kali Linux, Nmap, Burp Suite, Metasploit, Nessus, Autopsy, FTK Imager  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Selected Projects  
 
-### **Decentralized Credential Management System (DCMS)** — MSc Dissertation  
-**Ethereum • IPFS • Node.js • React • Python • FastAPI • Redis • MQTT**
+### **Decentralized Credential Management System (DCMS) — MSc Dissertation**  
+**Node.js • Redis • FastAPI • Ethereum • IPFS • MQTT**  
 
-- Designed a **hybrid blockchain-based credential verification system** to prevent degree fraud.  
-- Implemented **ERC-721 smart contracts** for issuing, verifying, and revoking credentials.  
-- Built a **Node.js backend** with JWT-based authentication, Redis queues, and IPFS integration.  
-- Developed a **Python FastAPI microservice** using **Isolation Forest & One-Class SVM** for real-time anomaly detection.  
-- Achieved **>90% accuracy** in detecting suspicious credential issuance and verification behavior.  
-- Containerized all services using **Docker** for modular and reproducible deployment.  
-
----
+- Designed a **hybrid blockchain-based credential verification system** preventing degree fraud.  
+- Developed secure **Node.js backend** with JWT authentication, RBAC, and Redis queues.  
+- Built a **Python FastAPI microservice** for real-time anomaly detection using Isolation Forest & One-Class SVM.  
+- Containerized all services with Docker for reproducible, scalable deployment.  
 
 ### **Farm Management System — Full Stack & Security-Focused**  
-**React • Node.js • Python • Docker • MongoDB**
+**Node.js • React • Docker • MongoDB**  
 
-- Designed a secure multi-role platform with **JWT auth, MFA, RBAC**, and CSRF protection.  
-- Implemented **TLS 1.3, certificate pinning, database encryption**, and SIEM logging.  
-- Integrated **IDS/IPS** and performed security testing aligned with **OWASP Top 10**.  
-- Phase 1 deployment planned for **September 2025**.  
-
----
-
-## 💞️ Looking to Collaborate On  
-- Cybersecurity & penetration testing projects  
-- Secure backend and API development  
-- Blockchain & Web3 security research  
-- AI-powered security monitoring tools  
-- Open-source security and forensics tools  
+- Built a multi-role web platform with **JWT, MFA, RBAC**, and **CSRF protection**.  
+- Implemented **TLS 1.3, certificate pinning, encryption**, and integrated SIEM logging.  
+- Conducted security testing aligned with **OWASP Top 10** and integrated **IDS/IPS monitoring**.  
 
 ---
 
-## 📫 How to Reach Me  
+## 📫 Connect with Me  
 - 📧 Email: **namanmahna2@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/naman-mahna-b2152815b](https://www.linkedin.com/in/naman-mahna-b2152815b)
-
----
+- 🔗 LinkedIn: linkedin.com/in/naman-mahna-b2152815b 
